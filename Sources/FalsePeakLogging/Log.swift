@@ -1,8 +1,8 @@
 //
 //  Log.swift
-//  BringExtensionKit
+//  FalsePeakLogging
 //
-//  Created by Beat on 13.03.18.
+//  Created by Renimal on 21.07.2025
 //
 
 import Foundation

@@ -1,8 +1,8 @@
 //
 //  Bundle+Extensions.swift
-//  Bring
+//  FalsePeakLogging
 //
-//  Created by Renato Stauffer on 30.08.19.
+//  Created by Renimal on 21.07.2025
 //
 
 import Foundation
